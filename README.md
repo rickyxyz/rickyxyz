@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on various personal projects
 - 🌱 I’m currently learning to integrate TDD into my workflow
 - 📝 My fields of interest are: automation, CI/CD, developer experience
+- 🌐 [My portfolio website](https://rickyxyz.github.io/)
 
 <br/>
   
