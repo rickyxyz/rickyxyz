@@ -4,6 +4,11 @@
 - 📝 My fields of interest are: automation, CI/CD, developer experience
 - 🌐 [My portfolio website](https://rickyxyz.github.io/)
 
+Feel free to reach out to me! You can find me through:
+
+- LinkedIn: [Ricky Aryanto](https://www.linkedin.com/in/rickyaryanto/)
+- Email: [moving.ricky@gmail.com](mailto:moving.ricky@gmail.com)
+
 <br/>
   
 ### 🧰 My Toolbox
