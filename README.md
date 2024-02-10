@@ -1,6 +1,6 @@
 ## Hello There, I'm Ricky 👋
 - 🔭 I’m currently working on various personal projects
-- 🌱 I’m currently learning to integrate TDD into my workflow
+- 🌱 I’m currently learning Remix
 - 📝 My fields of interest are: automation, CI/CD, developer experience
 - 🌐 [My portfolio website](https://rickyxyz.github.io/)
 
