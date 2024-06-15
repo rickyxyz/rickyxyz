@@ -1,6 +1,6 @@
 ## Ricky Aryanto
 - 🔨 I make stuff on the internet
-- 🌐 [My portfolio website](https://rickyxyz.github.io/)
+- 🌐 [My portfolio website](https://rickyxyz.dev/)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/rickyaryanto/)
   
 ### 🧰 My Toolbox
