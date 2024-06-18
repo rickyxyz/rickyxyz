@@ -6,13 +6,47 @@ Currently working on a data visualization project
 - 💼 [My LinkedIn](https://www.linkedin.com/in/rickyaryanto/)
   
 ### 🧰 My Toolbox
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br/>
+<ol>
+  <li>
+    <details>
+      <summary><h3>Fronntend Tools 🎨</h3></summary>
+      <ol>
+        <li>The holy trinity (HTML, CSS, JS)</li>
+        <li>Typescript</li>
+        <li>ReactJS</li>
+        <li>NextJS</li>
+        <li>VueJS</li>
+        <li>Vite</li>
+        <li>Rollup</li>
+        <li>SCSS</li>
+        <li>Tailwind</li>
+      </ol>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><h3>Testing Tools 🧪</h3></summary>
+      <ol>
+        <li>Vitest</li>
+        <li>Playwright</li>
+        <li>Storybook</li>
+      </ol>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><h3>Backend Tools 🛠️</h3></summary>
+      <ol>
+        <li>Python</li>
+        <li>NodeJS</li>
+        <li>Express</li>
+        <li>Flask</li>
+        <li>AWS</li>
+        <li>Firebase</li>
+      </ol>
+    </details>
+  </li>
+</ol>
 
 ### 📊 My Stats
 <a href="https://github.com/rickyxyz">
