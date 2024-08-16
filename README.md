@@ -1,6 +1,4 @@
 ## Ricky Aryanto
-
-- 💼 [My LinkedIn](https://www.linkedin.com/in/rickyaryanto/)
   
 ### 📊 My Stats
 <a href="https://github.com/rickyxyz">
@@ -9,3 +7,6 @@
 <a href="https://github.com/rickyxyz">
   <img src="https://github-readme-stats.vercel.app/api?username=rickyxyz&show_icons=true&theme=transparent" alt="rickyxyz's GitHub stats" />
 </a>
+
+### 💬 Socials
+- [LinkedIn](https://www.linkedin.com/in/rickyaryanto/)
