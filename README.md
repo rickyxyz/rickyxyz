@@ -1,6 +1,3 @@
-I'm Ricky Aryanto.
-
-### 📊 Stats
 <a href="https://github.com/rickyxyz">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyxyz&layout=compact&theme=transparent" alt="rickyxyz's Top Langs" />
 </a>
