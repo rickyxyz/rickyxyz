@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 I'm Ricky Aryanto
+
+**Web Developer** [@KnightPersonnelBali](https://www.knightpersonnelbali.id/)
+
+- 🌱 I’m currently learning [PayloadCMS](https://github.com/payloadcms)
 
 <!--
 **rickyxyz/rickyxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
