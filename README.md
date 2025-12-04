@@ -1,6 +1,6 @@
 ### 👋 I'm Ricky Aryanto
 
-**Web Developer** [@KnightPersonnelBali](https://www.knightpersonnelbali.id/)
+> **Web Developer** [@KnightPersonnelBali](https://www.knightpersonnelbali.id/)
 
 - 🌱 I’m currently learning [PayloadCMS](https://github.com/payloadcms)
 
