@@ -2,7 +2,9 @@
 
 **Web Developer** [@Knight_Personnel_Bali](https://www.knightpersonnelbali.id/)
 
-- 🌱 I’m currently learning [PayloadCMS](https://github.com/payloadcms)
+- 🔭 I’m currently trying to build a freelance dev career
+- 👯 I’m looking to collaborate on building a business website
+- 📫 How to reach me: [hello@rickyaryanto.com](mailto:hello@rickyaryanto.com)
 
 <!--
 **rickyxyz/rickyxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
